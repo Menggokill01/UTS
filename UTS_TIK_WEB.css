@@ -1,0 +1,74 @@
+body{
+	background-color:gray;
+	font-family:sans-serif;
+	font-size:12px;
+}
+
+#wrapper{
+	width:1000px;
+	margin-top:0px;
+	margin-bottom:0px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#wrapper #header{
+	background-color:White;
+	width:980px;
+	height:300px;
+	float:left;
+}
+
+#wrapper #header .banner{
+	width:150px;
+	height:830px;
+	float : left;
+}
+
+#wrapper #menu{
+	background-color:yellow;
+	width:830px;
+	height:30px;
+	padding-left:150px;
+	font-size:20px;
+	float : left;
+	font-style:bold;
+	
+}
+a:hover{
+	opacity:0.3;
+	cursor:pointer;
+}
+#wrapper #informasi .infomhs{
+	background-color:blue;
+	width:200px;
+	height:660px;
+	float : left;
+	color:white;
+	font-size:10px;
+	text-align:center;
+}
+
+#wrapper #informasi .infoutama{
+	background-color:white;
+	width:780px;
+	height:660px;
+	font-size:20px;
+	float : left;	
+}
+
+#wrapper #status{
+	background-color:green;
+	width:980px;
+	height:80px;
+	font-size:20px;
+	float : left;
+	color:white;
+}
+
+p {
+	font-family:sans-serif;
+	text-align:center;
+	font-size:12px;
+	font-stretch:20px;
+	}
